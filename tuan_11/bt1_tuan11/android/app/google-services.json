@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "220523840567",
+    "project_id": "bt1-tuan11",
+    "storage_bucket": "bt1-tuan11.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220523840567:android:a7c6e6b9dff8547205ebb2",
+        "android_client_info": {
+          "package_name": "com.example.bt1_tuan11"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX1wK0wELSakrrzR2-EuTYTGXXWEw2DIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

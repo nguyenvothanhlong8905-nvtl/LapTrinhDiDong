@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "220523840567",
+    "project_id": "bt1-tuan11",
+    "storage_bucket": "bt1-tuan11.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220523840567:android:a7c6e6b9dff8547205ebb2",
+        "android_client_info": {
+          "package_name": "com.example.bt1_tuan11"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220523840567-3fh7f25ta7es4ppajijgviighnn1qs11.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX1wK0wELSakrrzR2-EuTYTGXXWEw2DIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220523840567-3fh7f25ta7es4ppajijgviighnn1qs11.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "220523840567-7g0vgrljtlgp5edthn2eu9k57nakg99r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bt1Tuan11"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220523840567:android:ffd69ca9e69b7ccd05ebb2",
+        "android_client_info": {
+          "package_name": "com.example.bt2_tuan11"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220523840567-3fh7f25ta7es4ppajijgviighnn1qs11.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX1wK0wELSakrrzR2-EuTYTGXXWEw2DIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220523840567-3fh7f25ta7es4ppajijgviighnn1qs11.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "220523840567-7g0vgrljtlgp5edthn2eu9k57nakg99r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bt1Tuan11"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
